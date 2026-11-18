@@ -98,3 +98,15 @@ maxdata/
 *.mxo
 *.mxf
 *.mxp
+
+# Claude Code / AI-assistant files (local only, never committed)
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+HANDOFF.md
+.claude/
+.mcp.json
+docs/
+.superpowers/
+.worktrees/
+worktrees/
